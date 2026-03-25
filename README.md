@@ -158,3 +158,5 @@ It also saves:
 ## Author
 
 Major Project: `AI-Based Video Analytics for Violence Detection`
+By: Deevi Balaji
+
